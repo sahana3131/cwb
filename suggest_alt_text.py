@@ -1,3 +1,4 @@
+pip install torch pillow pytesseract
 import re
 import torch
 from PIL import Image
